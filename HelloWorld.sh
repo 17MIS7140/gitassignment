@@ -1,4 +1,5 @@
-#!/bin/bash
+#!asdfsdf/bin/bash
+#this program shows while loop example
 valid=true
 count=1
 while [ $valid ]
